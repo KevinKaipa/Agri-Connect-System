@@ -1,0 +1,21 @@
+.navbar-icon{
+    margin-left: 35px;
+    font-size: 45px;
+    color: lightblue;
+    padding-right: 38px;
+}
+
+.nav-links{
+    margin: auto;
+}
+
+.nav-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.nav-title{
+    color: aliceblue;
+}
